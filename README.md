@@ -29,7 +29,7 @@ Follow these instructions to set up and run the AI Toolkit web application local
 1. Start the Flask application:
 
    ```bash
-   python HUI.py
+   python GUI.py
    ```
 
 ## Features
