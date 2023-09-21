@@ -1,0 +1,10 @@
+Compose a concise summary of the passage about ISRO, from "The Indian Space Research Organisation (ISRO) stands as a shining testament to India's prowess in the field of space exploration. Founded in 1969, ISRO has steadily risen to become one of the world's most respected space agencies. Headquartered in Bengaluru, India, this remarkable organization has made significant strides in advancing space technology, fostering international collaborations, and contributing to our understanding of the cosmos.
+
+ISRO's journey to the stars has been marked by numerous achievements. Perhaps its most celebrated milestone came in 2013 when it successfully launched the Mars Orbiter Mission, also known as Mangalyaan, which made India the first Asian nation to reach the Red Planet and the fourth in the world. This historic feat showcased ISRO's commitment to innovation, cost-effectiveness, and precision in its missions.
+
+Apart from planetary exploration, ISRO has played a pivotal role in enhancing communication, navigation, and Earth observation capabilities. Its satellite programs have not only connected remote regions of India but have also been instrumental in providing vital services worldwide.
+
+ISRO's commitment to inclusivity extends to its frugal approach to space exploration. Its ability to accomplish missions at a fraction of the cost of some other space agencies has earned it global recognition and admiration.
+
+As ISRO continues to expand its horizons, with plans for lunar missions, interplanetary explorations, and collaborations with international partners, it stands as a beacon of scientific and technological excellence, inspiring the world with its achievements and reminding us all that the sky is no longer the limit for India's aspirations in space." in 20 words
+
