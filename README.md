@@ -52,7 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or feedback, please contact [Your Name](mailto:ramanjeyanth3@gmail.com).
+For questions or feedback, please contact [Jeyanth](mailto:ramanjeyanth3@gmail.com).
 ```
 
 Make sure to replace the placeholders like `yourusername`, `Your Name`, and `your.email@example.com` with your actual information. You can also add more sections or customize the README further based on your project's specific details and requirements.
